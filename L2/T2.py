@@ -1,0 +1,5 @@
+print("What is your first name?")
+fname = input()
+print("What is your surname?")
+sname = input()
+print("Hello, ", fname, sname)
